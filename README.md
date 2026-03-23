@@ -178,6 +178,8 @@ Official Telegram assistant for WEBKAL Solutions. Full-stack Python implementati
 - Focused on workflow automation and business optimization
 - Always exploring the latest in Generative AI and AI tooling
 
+---
+
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/113727083?v=4" alt="Abimmost Profile Picture" height="150" style="border-radius: 50%; margin-top: 20px;" />
   <h3>Thanks for visiting! 🙌</h3>
