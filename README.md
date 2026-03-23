@@ -12,12 +12,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abimmost.abimmost" />
-</div>
-
----
-
 <h1 align="center">Mokenyu Atsimbom Gwe</h1>
 
 <h3 align="center">Generative AI Engineer | Python & FastAPI Backend Developer | AI Workflow Optimization Enthusiast</h3>
@@ -26,6 +20,12 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!;Full-Stack+AI+Developer;Building+intelligent+systems;LLM+Integration+Expert;Telegram+Bot+Development;Let's+build+something+amazing!" alt="Typing SVG" />
+</div>
+
+---
+
+<div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -135,6 +135,10 @@ Official Telegram assistant for WEBKAL Solutions. Full-stack Python implementati
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abimmost&theme=tokyonight&hide_border=true" height="150" alt="streak stats"  />
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abimmost.abimmost" />
+</div>
+
 ---
 
 ## Current Focus
@@ -174,22 +178,8 @@ Official Telegram assistant for WEBKAL Solutions. Full-stack Python implementati
 - Focused on workflow automation and business optimization
 - Always exploring the latest in Generative AI and AI tooling
 
----
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abimmost&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="activity graph"  />
-</div>
-
----
-
-<div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/113727083?v=4" alt="Abimmost Profile Picture" width="100" height="100" style="border-radius: 50%; margin-top: 20px;" />
+  <img src="https://avatars.githubusercontent.com/u/113727083?v=4" alt="Abimmost Profile Picture" height="150" style="border-radius: 50%; margin-top: 20px;" />
   <h3>Thanks for visiting! 🙌</h3>
   <p>Explore my repositories, check out my projects, and let's build something amazing together.</p>
   <p>Whether it's AI, backend engineering, or bot automation—I'm always excited to collaborate!</p>
