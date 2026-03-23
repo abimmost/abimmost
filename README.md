@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/113727083?v=4"  />
-</div>
-
----
-
-<div align="center">
   <a href="https://www.linkedin.com/in/mokenyu-atsimbom" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -24,9 +18,7 @@
 
 ---
 
-<h1 align="center">Abimmost (Mokenyu Atsimbom)</h1>
-
----
+<h1 align="center">Mokenyu Atsimbom Gwe</h1>
 
 <h3 align="center">Generative AI Engineer | Python & FastAPI Backend Developer | AI Workflow Optimization Enthusiast</h3>
 
@@ -42,10 +34,10 @@
 
 I'm a passionate Generative AI Engineer and Python developer from Cameroon. I'm dedicated to building intelligent systems, crafting robust backend solutions, and exploring the intersection of AI and business automation. With a focus on Python-driven development and AI integration, I'm committed to creating scalable, elegant solutions that solve real-world problems.
 
-- 🎓 Software Engineering Background
-- 💡 Passionate about Generative AI, LLMs, and Backend Engineering
-- 🌍 Building AI-driven solutions for global challenges
-- ✨ Constantly learning and improving my skills!
+- Software Engineering Background
+- Passionate about Generative AI, LLMs, and Backend Engineering
+- Building AI-driven solutions for global challenges
+- Constantly learning and improving my skills!
 
 ---
 
